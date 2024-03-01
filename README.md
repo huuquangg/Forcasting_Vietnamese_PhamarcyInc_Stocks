@@ -1,5 +1,8 @@
 # Using-ML-DeepL-to-forecasting-stock-prices
  Forecasting the Vietnamese pharmacy  company’s stock prices using Statistic,  Machine Learning and Deep Learning  Models.
+ 
+[FinalResearch.pdf](https://github.com/huuquangg/Using-ML-and-DeepL-to-forecast-stock-prices/files/14461769/FinalResearch.pdf)
+
 
 # ABSTRACT
 This paper investigates the application of various statistical models and machine learning algorithms in forecasting the stock prices of Vietnamese pharmaceutical companies. Leveraging a diverse array of methodologies, including Linear Regression (LR), Support Vector Regression (SVR), Long Short-Term Memory (LSTM) networks, Autoregressive Integrated Moving Average (ARIMA), Autoregressive Integrated Moving Average with Exogenous Variables (ARIMAX), K-Nearest Neighbors (KNN), and Boosting LSTM, our study aims to provide comprehensive insights into the predictive capabilities of these models within the dynamic and complex pharmaceutical stock market landscape. Additionally, the findings contribute to the ongoing discourse on applying statistical models and machine learning algorithms in predicting stock prices
