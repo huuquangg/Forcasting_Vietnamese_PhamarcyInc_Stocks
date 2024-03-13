@@ -2,6 +2,7 @@
  Forecasting the Vietnamese pharmacy  company’s stock prices using Statistic,  Machine Learning and Deep Learning  Models.
  
 [FinalResearch.pdf](https://github.com/huuquangg/Using-ML-and-DeepL-to-forecast-stock-prices/files/14582635/FinalResearch.pdf)
+[FinalResearch GGDrive](https://drive.google.com/drive/u/0/folders/1NCmJSmATSgjGKhYuA_Vb38rZV4pLnJGJ)
 
 
 # ABSTRACT
